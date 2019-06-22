@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\area\area\bin\Debug\area.exe.config
+C:\Users\Alex\source\repos\area\area\bin\Debug\area.exe
+C:\Users\Alex\source\repos\area\area\bin\Debug\area.pdb
+C:\Users\Alex\source\repos\area\area\obj\Debug\area.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\area\area\obj\Debug\area.Form1.resources
+C:\Users\Alex\source\repos\area\area\obj\Debug\area.Properties.Resources.resources
+C:\Users\Alex\source\repos\area\area\obj\Debug\area.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\area\area\obj\Debug\area.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\area\area\obj\Debug\area.exe
+C:\Users\Alex\source\repos\area\area\obj\Debug\area.pdb
